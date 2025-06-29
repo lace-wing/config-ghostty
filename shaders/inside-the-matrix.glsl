@@ -7,8 +7,8 @@
   @pkazmier modified this shader to work in Ghostty.
 */
 
-const int ITERATIONS = 20;   //use less value if you need more performance
-const float SPEED = .25;
+const int ITERATIONS = 16;   //use less value if you need more performance
+const float SPEED = 0.24;
 
 const float STRIP_CHARS_MIN =  7.;
 const float STRIP_CHARS_MAX = 40.;
