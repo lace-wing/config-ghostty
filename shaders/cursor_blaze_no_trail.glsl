@@ -111,10 +111,10 @@ float determineStartVertexFactor(vec2 a, vec2 b) {
 // const vec4 TRAIL_COLOR_ACCENT = vec4(0.0, 0.424, 1.0, 1.0);
 // green
 const vec4 TRAIL_COLOR = vec4(0.1, 0.56, 0.1, 1.);
-const vec4 TRAIL_COLOR_ACCENT = vec4(0.04, 0.24, 0.04, 1.);
+const vec4 TRAIL_COLOR_ACCENT = vec4(0.24, 0.32, 0.24, 1.);
 const vec4 CURRENT_CURSOR_COLOR = TRAIL_COLOR;
 const vec4 PREVIOUS_CURSOR_COLOR = TRAIL_COLOR;
-const float DURATION = 0.8;
+const float DURATION = 0.4;
 
 void mainImage(out vec4 fragColor, in vec2 fragCoord)
 {

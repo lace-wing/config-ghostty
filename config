@@ -28,8 +28,8 @@ macos-titlebar-style = hidden
 # but doesn not seem to work
 # window-decoration = fasle
 
-# background-opacity = 0.8
-# background-blur-radius = 2
+background-opacity = 0.75
+background-blur-radius = 4
 
 # shaders
 custom-shader = shaders/cursor_smear.glsl

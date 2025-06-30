@@ -8,7 +8,7 @@
 */
 
 const int ITERATIONS = 16;   //use less value if you need more performance
-const float SPEED = 0.24;
+const float SPEED = 0.25;
 
 const float STRIP_CHARS_MIN =  7.;
 const float STRIP_CHARS_MAX = 40.;
